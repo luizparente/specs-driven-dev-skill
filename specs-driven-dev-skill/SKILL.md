@@ -55,6 +55,8 @@ Never start writing a spec cold. Ask these questions conversationally (not as a 
 
 **These seven questions are the floor, not the ceiling.** As you draft each section of the spec, new ambiguities will surface — in business rules, error cases, NFR thresholds, external contract assumptions, and more. Every time one does, apply Constraint 2: stop and ask the human. Do not draft a placeholder and move on. Do not pick the more conservative interpretation and proceed silently. Ask.
 
+Before proceeding to the Step 2, ask the user if there are any additional requirements he wants to provide before continuing.
+
 ---
 
 ## Step 2: Scaffold the Spec File
