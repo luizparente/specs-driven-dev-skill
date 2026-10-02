@@ -26,8 +26,9 @@ Copy this directory into the personal skills folder for your tool. The skill wil
 
 | Tool | Location |
 |---|---|
-| GitHub Copilot | `~/.github/skills/specs-driven-dev-skill/` |
-| Claude Code | `~/.claude/skills/specs-driven-dev-skill/` |
+| GitHub Copilot (Project Level) | `<path-to-your-project>/.github/skills/specs-driven-dev-skill/` |
+| GitHub Copilot (User Level) | `~/.copilot/skills/specs-driven-dev-skill/` |
+| Claude Code (Project or User Level) | `~/.claude/skills/specs-driven-dev-skill/` |
 
 ### Project install
 
